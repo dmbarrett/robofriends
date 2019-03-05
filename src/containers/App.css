@@ -1,0 +1,7 @@
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    background: -webkit-linear-gradient(#1e05fa, #000000);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
